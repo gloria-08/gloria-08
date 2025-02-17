@@ -8,7 +8,7 @@ I'm fine. Thank you, and you? -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gloria-08&label=Profile%20views&base=2897&color=blue&style=for-the-badge" alt="gloria-08" /> </p>
 
 ---
-
+ 
 <br>
 
 <p align="center">
